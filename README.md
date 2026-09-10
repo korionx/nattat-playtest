@@ -2,11 +2,16 @@
 
 A fast 2v2 tower race from Korionx Productions. One builder. One jumper. A 336-metre climb where every spring can be stolen.
 
-**Early playtest · version 0.4.1 · Windows and Android**
+**Early playtest · version 0.5.0 · Windows and Android**
 
 Download the latest release from this repository. Windows: extract the whole ZIP and run Nattat.exe. Android: install the APK (Android 8+, ARM64). These are early direct-download builds, not store releases.
 
 Solo practice works offline. Multiplayer currently uses HOST LAN / JOIN LAN on the same reachable local network. No public matchmaking service is running. Every player must use the same version. Up to four players; bots fill empty roles.
+
+## Clash update
+Aim your burst to strike, pounce from above to rebound upward, or meet an incoming attack with a fresh burst to counter. New contact effects, recoil animation and layered original sound make the result clearer.
+
+Watch or download the landscape, vertical and short gameplay trailers from the 0.5.0 release.
 
 ## Play
 Jumper: A/D or arrows move, Space jumps (hold to chain), Shift bursts. Build speed before jumping for height. Builder: mouse aims, left click/E places, right click/Q shatters an unused spring. Phone controls appear automatically and are adjustable in Options.
